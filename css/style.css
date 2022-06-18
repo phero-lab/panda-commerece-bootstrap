@@ -37,3 +37,31 @@
     color: #1f1f1f;
 
 }
+.categories .category-item{
+    background-color: yellow;
+}
+
+.cat-item1{
+    background-color: orange;
+}
+.cat-item2{
+    background-color: orchid;
+}
+.cat-item3{
+    background-color: blue;
+}
+
+.cat-item1 , .cat-item2, .cat-item3{
+    padding: 10px;
+    text-transform: capitalize;
+    font-family: poppins;
+    border-radius: 20px;
+}
+.categories .sec-title{
+    text-transform: capitalize;
+    color: grey;
+}
+.categories h1{
+    color: white;
+    margin-left: 50px;
+}
